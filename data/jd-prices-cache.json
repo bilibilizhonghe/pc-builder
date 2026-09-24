@@ -1,0 +1,1110 @@
+{
+  "_generatedAt": 1788626172038,
+  "_comment": "自动生成。运行 npm run fetch-prices 替换为真实抓取数据",
+  "100032012345": {
+    "sku": "100032012345",
+    "price": 8600,
+    "originalPrice": 9772,
+    "promotion": "每满1000减120",
+    "fetchedAt": 1736073600000
+  },
+  "100037965001": {
+    "sku": "100037965001",
+    "price": 2040,
+    "originalPrice": 2519,
+    "promotion": "每满1000减190",
+    "fetchedAt": 1736073600000
+  },
+  "100046804807": {
+    "sku": "100046804807",
+    "price": 5740,
+    "originalPrice": 6040,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100061203344": {
+    "sku": "100061203344",
+    "price": 8985,
+    "originalPrice": 9561,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100067812233": {
+    "sku": "100067812233",
+    "price": 7960,
+    "originalPrice": 9148,
+    "promotion": "每满1000减130",
+    "fetchedAt": 1736073600000
+  },
+  "100050366001": {
+    "sku": "100050366001",
+    "price": 7295,
+    "originalPrice": 8792,
+    "promotion": "每满1000减170",
+    "fetchedAt": 1736073600000
+  },
+  "100067845621": {
+    "sku": "100067845621",
+    "price": 1895,
+    "originalPrice": 2313,
+    "promotion": "每满1000减180",
+    "fetchedAt": 1736073600000
+  },
+  "100067845677": {
+    "sku": "100067845677",
+    "price": 4495,
+    "originalPrice": 5549,
+    "promotion": "每满1000减190",
+    "fetchedAt": 1736073600000
+  },
+  "100073891527": {
+    "sku": "100073891527",
+    "price": 4795,
+    "originalPrice": 5269,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100073895000": {
+    "sku": "100073895000",
+    "price": 840,
+    "originalPrice": 974,
+    "promotion": "每满1000减140",
+    "fetchedAt": 1736073600000
+  },
+  "100021155443": {
+    "sku": "100021155443",
+    "price": 4195,
+    "originalPrice": 4461,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100025166778": {
+    "sku": "100025166778",
+    "price": 5040,
+    "originalPrice": 5422,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100056789012": {
+    "sku": "100056789012",
+    "price": 1730,
+    "originalPrice": 1883,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100042187766": {
+    "sku": "100042187766",
+    "price": 7520,
+    "originalPrice": 8845,
+    "promotion": "每满1000减150",
+    "fetchedAt": 1736073600000
+  },
+  "100058342198": {
+    "sku": "100058342198",
+    "price": 7795,
+    "originalPrice": 8205,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100035789001": {
+    "sku": "100035789001",
+    "price": 6965,
+    "originalPrice": 8493,
+    "promotion": "每满1000减180",
+    "fetchedAt": 1736073600000
+  },
+  "100032207654": {
+    "sku": "100032207654",
+    "price": 3035,
+    "originalPrice": 3298,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100045231198": {
+    "sku": "100045231198",
+    "price": 3130,
+    "originalPrice": 3331,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100068001001": {
+    "sku": "100068001001",
+    "price": 7170,
+    "originalPrice": 8536,
+    "promotion": "每满1000减160",
+    "fetchedAt": 1736073600000
+  },
+  "100068002001": {
+    "sku": "100068002001",
+    "price": 7315,
+    "originalPrice": 8312,
+    "promotion": "每满1000减120",
+    "fetchedAt": 1736073600000
+  },
+  "100068002002": {
+    "sku": "100068002002",
+    "price": 1615,
+    "originalPrice": 1774,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100068003001": {
+    "sku": "100068003001",
+    "price": 7440,
+    "originalPrice": 8088,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100068003002": {
+    "sku": "100068003002",
+    "price": 4590,
+    "originalPrice": 4830,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100068101001": {
+    "sku": "100068101001",
+    "price": 305,
+    "originalPrice": 340,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100068102001": {
+    "sku": "100068102001",
+    "price": 5260,
+    "originalPrice": 5535,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100068103001": {
+    "sku": "100068103001",
+    "price": 5175,
+    "originalPrice": 5567,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100068104001": {
+    "sku": "100068104001",
+    "price": 4885,
+    "originalPrice": 5887,
+    "promotion": "每满1000减170",
+    "fetchedAt": 1736073600000
+  },
+  "100068105001": {
+    "sku": "100068105001",
+    "price": 7510,
+    "originalPrice": 8734,
+    "promotion": "每满1000减140",
+    "fetchedAt": 1736073600000
+  },
+  "100069001001": {
+    "sku": "100069001001",
+    "price": 1915,
+    "originalPrice": 2333,
+    "promotion": "每满1000减180",
+    "fetchedAt": 1736073600000
+  },
+  "100069001002": {
+    "sku": "100069001002",
+    "price": 7325,
+    "originalPrice": 8615,
+    "promotion": "每满1000减150",
+    "fetchedAt": 1736073600000
+  },
+  "100069001003": {
+    "sku": "100069001003",
+    "price": 8370,
+    "originalPrice": 9300,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100069001004": {
+    "sku": "100069001004",
+    "price": 5045,
+    "originalPrice": 5605,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100069002001": {
+    "sku": "100069002001",
+    "price": 8325,
+    "originalPrice": 9149,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100069002002": {
+    "sku": "100069002002",
+    "price": 6030,
+    "originalPrice": 6416,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100069101001": {
+    "sku": "100069101001",
+    "price": 6215,
+    "originalPrice": 6829,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100069101002": {
+    "sku": "100069101002",
+    "price": 4465,
+    "originalPrice": 5016,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100069101003": {
+    "sku": "100069101003",
+    "price": 6655,
+    "originalPrice": 8118,
+    "promotion": "每满1000减180",
+    "fetchedAt": 1736073600000
+  },
+  "100069101100": {
+    "sku": "100069101100",
+    "price": 4990,
+    "originalPrice": 6159,
+    "promotion": "每满1000减190",
+    "fetchedAt": 1736073600000
+  },
+  "100069102001": {
+    "sku": "100069102001",
+    "price": 5175,
+    "originalPrice": 5750,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100069102002": {
+    "sku": "100069102002",
+    "price": 240,
+    "originalPrice": 273,
+    "promotion": "每满1000减130",
+    "fetchedAt": 1736073600000
+  },
+  "100021367821": {
+    "sku": "100021367821",
+    "price": 5415,
+    "originalPrice": 5888,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100029876543": {
+    "sku": "100029876543",
+    "price": 8895,
+    "originalPrice": 9567,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100037965122": {
+    "sku": "100037965122",
+    "price": 8610,
+    "originalPrice": 9358,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100038012398": {
+    "sku": "100038012398",
+    "price": 1830,
+    "originalPrice": 2176,
+    "promotion": "每满1000减160",
+    "fetchedAt": 1736073600000
+  },
+  "100038014455": {
+    "sku": "100038014455",
+    "price": 2600,
+    "originalPrice": 2735,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100049871123": {
+    "sku": "100049871123",
+    "price": 1490,
+    "originalPrice": 1771,
+    "promotion": "每满1000减160",
+    "fetchedAt": 1736073600000
+  },
+  "100050366334": {
+    "sku": "100050366334",
+    "price": 7555,
+    "originalPrice": 8036,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100050380001": {
+    "sku": "100050380001",
+    "price": 1855,
+    "originalPrice": 1955,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100048761122": {
+    "sku": "100048761122",
+    "price": 1830,
+    "originalPrice": 2202,
+    "promotion": "每满1000减170",
+    "fetchedAt": 1736073600000
+  },
+  "100040211008": {
+    "sku": "100040211008",
+    "price": 8090,
+    "originalPrice": 8606,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100042198770": {
+    "sku": "100042198770",
+    "price": 1830,
+    "originalPrice": 1967,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100042198877": {
+    "sku": "100042198877",
+    "price": 7425,
+    "originalPrice": 7982,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100019876542": {
+    "sku": "100019876542",
+    "price": 8375,
+    "originalPrice": 8815,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100028971234": {
+    "sku": "100028971234",
+    "price": 2490,
+    "originalPrice": 2677,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100043619877": {
+    "sku": "100043619877",
+    "price": 2275,
+    "originalPrice": 2499,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100049873344": {
+    "sku": "100049873344",
+    "price": 8110,
+    "originalPrice": 9656,
+    "promotion": "每满1000减160",
+    "fetchedAt": 1736073600000
+  },
+  "100064003455": {
+    "sku": "100064003455",
+    "price": 2275,
+    "originalPrice": 2530,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100071256789": {
+    "sku": "100071256789",
+    "price": 7840,
+    "originalPrice": 9447,
+    "promotion": "每满1000减170",
+    "fetchedAt": 1736073600000
+  },
+  "100075231144": {
+    "sku": "100075231144",
+    "price": 3585,
+    "originalPrice": 4322,
+    "promotion": "每满1000减170",
+    "fetchedAt": 1736073600000
+  },
+  "100058978234": {
+    "sku": "100058978234",
+    "price": 2280,
+    "originalPrice": 2592,
+    "promotion": "每满1000减120",
+    "fetchedAt": 1736073600000
+  },
+  "100058978290": {
+    "sku": "100058978290",
+    "price": 4320,
+    "originalPrice": 5268,
+    "promotion": "每满1000减180",
+    "fetchedAt": 1736073600000
+  },
+  "100050121987": {
+    "sku": "100050121987",
+    "price": 4930,
+    "originalPrice": 5358,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100052219876": {
+    "sku": "100052219876",
+    "price": 1880,
+    "originalPrice": 2043,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100056789432": {
+    "sku": "100056789432",
+    "price": 5065,
+    "originalPrice": 5564,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100050023451": {
+    "sku": "100050023451",
+    "price": 8175,
+    "originalPrice": 9085,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100050021339": {
+    "sku": "100050021339",
+    "price": 4730,
+    "originalPrice": 5499,
+    "promotion": "每满1000减140",
+    "fetchedAt": 1736073600000
+  },
+  "100012876543": {
+    "sku": "100012876543",
+    "price": 5050,
+    "originalPrice": 6082,
+    "promotion": "每满1000减170",
+    "fetchedAt": 1736073600000
+  },
+  "100040217654": {
+    "sku": "100040217654",
+    "price": 5175,
+    "originalPrice": 5567,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100008760123": {
+    "sku": "100008760123",
+    "price": 5175,
+    "originalPrice": 6308,
+    "promotion": "每满1000减180",
+    "fetchedAt": 1736073600000
+  },
+  "100012345671": {
+    "sku": "100012345671",
+    "price": 2470,
+    "originalPrice": 2905,
+    "promotion": "每满1000减150",
+    "fetchedAt": 1736073600000
+  },
+  "100012345699": {
+    "sku": "100012345699",
+    "price": 6280,
+    "originalPrice": 6828,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100012378901": {
+    "sku": "100012378901",
+    "price": 2580,
+    "originalPrice": 2963,
+    "promotion": "每满1000减130",
+    "fetchedAt": 1736073600000
+  },
+  "100018745612": {
+    "sku": "100018745612",
+    "price": 2265,
+    "originalPrice": 2696,
+    "promotion": "每满1000减160",
+    "fetchedAt": 1736073600000
+  },
+  "100018762234": {
+    "sku": "100018762234",
+    "price": 2370,
+    "originalPrice": 2754,
+    "promotion": "每满1000减140",
+    "fetchedAt": 1736073600000
+  },
+  "100018799887": {
+    "sku": "100018799887",
+    "price": 3475,
+    "originalPrice": 3737,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100018799999": {
+    "sku": "100018799999",
+    "price": 2625,
+    "originalPrice": 2791,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100019334455": {
+    "sku": "100019334455",
+    "price": 2310,
+    "originalPrice": 2849,
+    "promotion": "每满1000减190",
+    "fetchedAt": 1736073600000
+  },
+  "100021445566": {
+    "sku": "100021445566",
+    "price": 5870,
+    "originalPrice": 6180,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100008812345": {
+    "sku": "100008812345",
+    "price": 4765,
+    "originalPrice": 5234,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100008890123": {
+    "sku": "100008890123",
+    "price": 1385,
+    "originalPrice": 1460,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100008987654": {
+    "sku": "100008987654",
+    "price": 1715,
+    "originalPrice": 1805,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100009223344": {
+    "sku": "100009223344",
+    "price": 1400,
+    "originalPrice": 1491,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100009225001": {
+    "sku": "100009225001",
+    "price": 8235,
+    "originalPrice": 10043,
+    "promotion": "每满1000减180",
+    "fetchedAt": 1736073600000
+  },
+  "100009556677": {
+    "sku": "100009556677",
+    "price": 1430,
+    "originalPrice": 1553,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100009887766": {
+    "sku": "100009887766",
+    "price": 5620,
+    "originalPrice": 6174,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100009887800": {
+    "sku": "100009887800",
+    "price": 8545,
+    "originalPrice": 9389,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100005432198": {
+    "sku": "100005432198",
+    "price": 7215,
+    "originalPrice": 8015,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100005456789": {
+    "sku": "100005456789",
+    "price": 7110,
+    "originalPrice": 8077,
+    "promotion": "每满1000减120",
+    "fetchedAt": 1736073600000
+  },
+  "100007800001": {
+    "sku": "100007800001",
+    "price": 945,
+    "originalPrice": 1099,
+    "promotion": "每满1000减140",
+    "fetchedAt": 1736073600000
+  },
+  "100007800123": {
+    "sku": "100007800123",
+    "price": 755,
+    "originalPrice": 890,
+    "promotion": "每满1000减150",
+    "fetchedAt": 1736073600000
+  },
+  "100007812345": {
+    "sku": "100007812345",
+    "price": 570,
+    "originalPrice": 681,
+    "promotion": "每满1000减160",
+    "fetchedAt": 1736073600000
+  },
+  "100007812999": {
+    "sku": "100007812999",
+    "price": 3360,
+    "originalPrice": 3955,
+    "promotion": "每满1000减150",
+    "fetchedAt": 1736073600000
+  },
+  "100007834567": {
+    "sku": "100007834567",
+    "price": 390,
+    "originalPrice": 472,
+    "promotion": "每满1000减170",
+    "fetchedAt": 1736073600000
+  },
+  "100007856789": {
+    "sku": "100007856789",
+    "price": 215,
+    "originalPrice": 263,
+    "promotion": "每满1000减180",
+    "fetchedAt": 1736073600000
+  },
+  "100007856888": {
+    "sku": "100007856888",
+    "price": 1940,
+    "originalPrice": 2254,
+    "promotion": "每满1000减140",
+    "fetchedAt": 1736073600000
+  },
+  "100007901234": {
+    "sku": "100007901234",
+    "price": 5885,
+    "originalPrice": 6469,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100007945678": {
+    "sku": "100007945678",
+    "price": 5385,
+    "originalPrice": 6051,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100007989012": {
+    "sku": "100007989012",
+    "price": 5140,
+    "originalPrice": 5842,
+    "promotion": "每满1000减120",
+    "fetchedAt": 1736073600000
+  },
+  "100020100001": {
+    "sku": "100020100001",
+    "price": 1830,
+    "originalPrice": 2202,
+    "promotion": "每满1000减170",
+    "fetchedAt": 1736073600000
+  },
+  "100020100100": {
+    "sku": "100020100100",
+    "price": 4005,
+    "originalPrice": 4450,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100020113355": {
+    "sku": "100020113355",
+    "price": 520,
+    "originalPrice": 574,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100020146789": {
+    "sku": "100020146789",
+    "price": 1430,
+    "originalPrice": 1643,
+    "promotion": "每满1000减130",
+    "fetchedAt": 1736073600000
+  },
+  "100020180123": {
+    "sku": "100020180123",
+    "price": 7975,
+    "originalPrice": 9380,
+    "promotion": "每满1000减150",
+    "fetchedAt": 1736073600000
+  },
+  "100020195678": {
+    "sku": "100020195678",
+    "price": 3085,
+    "originalPrice": 3317,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100020212345": {
+    "sku": "100020212345",
+    "price": 1660,
+    "originalPrice": 1866,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100020234567": {
+    "sku": "100020234567",
+    "price": 7810,
+    "originalPrice": 8675,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100020256789": {
+    "sku": "100020256789",
+    "price": 3170,
+    "originalPrice": 3448,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100020278901": {
+    "sku": "100020278901",
+    "price": 6380,
+    "originalPrice": 7505,
+    "promotion": "每满1000减150",
+    "fetchedAt": 1736073600000
+  },
+  "100030100001": {
+    "sku": "100030100001",
+    "price": 3915,
+    "originalPrice": 4498,
+    "promotion": "每满1000减130",
+    "fetchedAt": 1736073600000
+  },
+  "100030122456": {
+    "sku": "100030122456",
+    "price": 6895,
+    "originalPrice": 8307,
+    "promotion": "每满1000减170",
+    "fetchedAt": 1736073600000
+  },
+  "100030145678": {
+    "sku": "100030145678",
+    "price": 4365,
+    "originalPrice": 4646,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100030146000": {
+    "sku": "100030146000",
+    "price": 1260,
+    "originalPrice": 1517,
+    "promotion": "每满1000减170",
+    "fetchedAt": 1736073600000
+  },
+  "100030167890": {
+    "sku": "100030167890",
+    "price": 5450,
+    "originalPrice": 6121,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100030155789": {
+    "sku": "100030155789",
+    "price": 6145,
+    "originalPrice": 7144,
+    "promotion": "每满1000减140",
+    "fetchedAt": 1736073600000
+  },
+  "100030156000": {
+    "sku": "100030156000",
+    "price": 345,
+    "originalPrice": 417,
+    "promotion": "每满1000减170",
+    "fetchedAt": 1736073600000
+  },
+  "100030189012": {
+    "sku": "100030189012",
+    "price": 7105,
+    "originalPrice": 7981,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100040100001": {
+    "sku": "100040100001",
+    "price": 6550,
+    "originalPrice": 7199,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100040100100": {
+    "sku": "100040100100",
+    "price": 2535,
+    "originalPrice": 2784,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100040100200": {
+    "sku": "100040100200",
+    "price": 4215,
+    "originalPrice": 4736,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100040100300": {
+    "sku": "100040100300",
+    "price": 8900,
+    "originalPrice": 10112,
+    "promotion": "每满1000减120",
+    "fetchedAt": 1736073600000
+  },
+  "100040100400": {
+    "sku": "100040100400",
+    "price": 2055,
+    "originalPrice": 2186,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100040100500": {
+    "sku": "100040100500",
+    "price": 4095,
+    "originalPrice": 4708,
+    "promotion": "每满1000减130",
+    "fetchedAt": 1736073600000
+  },
+  "100040100600": {
+    "sku": "100040100600",
+    "price": 5645,
+    "originalPrice": 6564,
+    "promotion": "每满1000减140",
+    "fetchedAt": 1736073600000
+  },
+  "100040100700": {
+    "sku": "100040100700",
+    "price": 4860,
+    "originalPrice": 5857,
+    "promotion": "每满1000减170",
+    "fetchedAt": 1736073600000
+  },
+  "100070001001": {
+    "sku": "100070001001",
+    "price": 2075,
+    "originalPrice": 2383,
+    "promotion": "每满1000减130",
+    "fetchedAt": 1736073600000
+  },
+  "100070001002": {
+    "sku": "100070001002",
+    "price": 2070,
+    "originalPrice": 2352,
+    "promotion": "每满1000减120",
+    "fetchedAt": 1736073600000
+  },
+  "100070001003": {
+    "sku": "100070001003",
+    "price": 7050,
+    "originalPrice": 8598,
+    "promotion": "每满1000减180",
+    "fetchedAt": 1736073600000
+  },
+  "100070001004": {
+    "sku": "100070001004",
+    "price": 2065,
+    "originalPrice": 2321,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100070001005": {
+    "sku": "100070001005",
+    "price": 7310,
+    "originalPrice": 8807,
+    "promotion": "每满1000减170",
+    "fetchedAt": 1736073600000
+  },
+  "100070001006": {
+    "sku": "100070001006",
+    "price": 2060,
+    "originalPrice": 2290,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100070002001": {
+    "sku": "100070002001",
+    "price": 3810,
+    "originalPrice": 4235,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100070002002": {
+    "sku": "100070002002",
+    "price": 8360,
+    "originalPrice": 9391,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100070002003": {
+    "sku": "100070002003",
+    "price": 4045,
+    "originalPrice": 4444,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100070003001": {
+    "sku": "100070003001",
+    "price": 2200,
+    "originalPrice": 2367,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100070003002": {
+    "sku": "100070003002",
+    "price": 2195,
+    "originalPrice": 2336,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100071001001": {
+    "sku": "100071001001",
+    "price": 9000,
+    "originalPrice": 9475,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100071001002": {
+    "sku": "100071001002",
+    "price": 2000,
+    "originalPrice": 2324,
+    "promotion": "每满1000减140",
+    "fetchedAt": 1736073600000
+  },
+  "100071001003": {
+    "sku": "100071001003",
+    "price": 3290,
+    "originalPrice": 3655,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100071001004": {
+    "sku": "100071001004",
+    "price": 1135,
+    "originalPrice": 1287,
+    "promotion": "每满1000减120",
+    "fetchedAt": 1736073600000
+  },
+  "100072001001": {
+    "sku": "100072001001",
+    "price": 1690,
+    "originalPrice": 1817,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100072001002": {
+    "sku": "100072001002",
+    "price": 1120,
+    "originalPrice": 1352,
+    "promotion": "每满1000减170",
+    "fetchedAt": 1736073600000
+  },
+  "100072001003": {
+    "sku": "100072001003",
+    "price": 4250,
+    "originalPrice": 4618,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100072001004": {
+    "sku": "100072001004",
+    "price": 4885,
+    "originalPrice": 6029,
+    "promotion": "每满1000减190",
+    "fetchedAt": 1736073600000
+  },
+  "100073001001": {
+    "sku": "100073001001",
+    "price": 5920,
+    "originalPrice": 6651,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100073001002": {
+    "sku": "100073001002",
+    "price": 8100,
+    "originalPrice": 9641,
+    "promotion": "每满1000减160",
+    "fetchedAt": 1736073600000
+  },
+  "100073001003": {
+    "sku": "100073001003",
+    "price": 5460,
+    "originalPrice": 6136,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100073001004": {
+    "sku": "100073001004",
+    "price": 5005,
+    "originalPrice": 5621,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100074001001": {
+    "sku": "100074001001",
+    "price": 2185,
+    "originalPrice": 2699,
+    "promotion": "每满1000减190",
+    "fetchedAt": 1736073600000
+  },
+  "100074001002": {
+    "sku": "100074001002",
+    "price": 1635,
+    "originalPrice": 1899,
+    "promotion": "每满1000减140",
+    "fetchedAt": 1736073600000
+  },
+  "100074001003": {
+    "sku": "100074001003",
+    "price": 610,
+    "originalPrice": 692,
+    "promotion": "每满1000减120",
+    "fetchedAt": 1736073600000
+  },
+  "100074001004": {
+    "sku": "100074001004",
+    "price": 6165,
+    "originalPrice": 7427,
+    "promotion": "每满1000减170",
+    "fetchedAt": 1736073600000
+  },
+  "100075001001": {
+    "sku": "100075001001",
+    "price": 6090,
+    "originalPrice": 6481,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100075001002": {
+    "sku": "100075001002",
+    "price": 6015,
+    "originalPrice": 7247,
+    "promotion": "每满1000减170",
+    "fetchedAt": 1736073600000
+  },
+  "100075001003": {
+    "sku": "100075001003",
+    "price": 3815,
+    "originalPrice": 4653,
+    "promotion": "每满1000减180",
+    "fetchedAt": 1736073600000
+  },
+  "100075001004": {
+    "sku": "100075001004",
+    "price": 6060,
+    "originalPrice": 6517,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100076001001": {
+    "sku": "100076001001",
+    "price": 2850,
+    "originalPrice": 3478,
+    "promotion": "每满1000减180",
+    "fetchedAt": 1736073600000
+  },
+  "100076001002": {
+    "sku": "100076001002",
+    "price": 2940,
+    "originalPrice": 3301,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  },
+  "100076001003": {
+    "sku": "100076001003",
+    "price": 3215,
+    "originalPrice": 3385,
+    "promotion": "",
+    "fetchedAt": 1736073600000
+  }
+}
